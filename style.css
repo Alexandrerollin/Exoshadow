@@ -1,0 +1,11 @@
+h1 {
+    text-shadow: 2px -3px 3px rgba(196, 81, 196, 0.81);
+}
+
+.p1 {
+    box-shadow: 3px 3px 3px 4px hsl(0, 47%, 31%, 0.6);
+}
+
+.p2 {
+    box-shadow: -6px 6px 10px green;
+}
